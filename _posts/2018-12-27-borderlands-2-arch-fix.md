@@ -3,8 +3,6 @@ layout: post
 title:  "Borderlands 2 Arch Fix"
 ---
 
-## Borderlands 2 Arch Fix
-
 This is a write up on how I fixed why borderlands 2 would not launch.
  
 So the symptom was that when I tried to launch Borderlands 2 from the steam client all it would do is act like it was going to open then it would crash before the game would open.
