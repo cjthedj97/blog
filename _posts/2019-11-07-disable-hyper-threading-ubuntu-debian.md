@@ -5,11 +5,9 @@ tags: Ubuntu Debian
 title:  "Disable hyper threading on ubuntu or Debian"
 ---
 
-!!! I tested a few different ways and to disable hyper threading and this is what I landed on 
+{% include note.html content="I tested a few different ways and to disable hyper threading and this is what I landed on" %}
 
 {% include warning.html content="Tested on ubuntu 18.04 and debain 9" %}
-
-!! Tested on ubuntu 18.04 and debain 9
 
 **Non persistent**
 
