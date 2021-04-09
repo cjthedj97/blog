@@ -2,6 +2,7 @@
 layout: post
 title: "List Email accounts (cpanel) one-liners"
 hidden: true
+visible: 1
 ---
 
 ### List all email userdata
