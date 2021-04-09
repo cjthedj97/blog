@@ -3,6 +3,7 @@ layout: post
 tag: hyper threading 
 tags: Ubuntu Debian
 title:  "Disable hyper threading on ubuntu or Debian"
+pin: true
 ---
 
 {% include note.html content="I tested a few different ways and to disable hyper threading and this is what I landed on" %}

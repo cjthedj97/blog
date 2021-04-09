@@ -2,6 +2,7 @@
 layout: post
 tags: DNS Resolvers Cache
 title:  "Public DNS Resolvers you can request they clear their cache"
+pin: true
 ---
 
 Did you know some pubic DNS resolvers give you the ability to clear there cache?

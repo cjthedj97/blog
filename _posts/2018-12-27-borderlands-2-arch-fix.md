@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Borderlands 2 Arch Fix"
+pin: true
 ---
 
 This is a write up on how I fixed why borderlands 2 would not launch.
