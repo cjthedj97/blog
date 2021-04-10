@@ -24,7 +24,7 @@ pin: true
 **Here is the Copy Pasta Verson**
 
 This copy pasta verson disables hyper threading while running and after roboot 
-```
+```bash
 if [[ ! -e /etc/rc.local ]]
 then
  touch /etc/rc.local
