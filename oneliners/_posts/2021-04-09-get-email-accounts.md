@@ -1,7 +1,8 @@
 ---
 layout: post
-title: "List Email accounts (cpanel) one-liners"
+title: "Cpanel List Email accounts from shell"
 tags: Cpanel oneliners Email
+category: Cpanel
 ---
 
 ### List all email userdata

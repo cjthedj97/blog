@@ -19,7 +19,7 @@ Note : If you are using GNOME you can use Main Menu to edit the shortcut to run 
  
 The Script is as follows (other than you need to change the locations to the correct locations for you system)
  
- ```
+ ```bash
  #!/bin/bash
  ## Borderlands 2 Fix
  ### Uses LD_Preload to load what is missing for 
