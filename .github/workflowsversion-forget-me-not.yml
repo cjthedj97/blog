@@ -1,0 +1,20 @@
+name: Version Forget-Me-Not
+
+on:
+  repository_dispatch:
+  workflow_dispatch:
+  pull_request:
+    branches:
+      - main # Change if your default branch is different
+    types: [opened, synchronize]
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+
+    steps:
+      - uses: simplybusiness/version-forget-me-not@v2.1.0
+        env:
+          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Change to the file path where you keep the Gem's version.
+          # It is usually `lib/<gem name>/version.rb` or in the gemspec file.
+          VERSION_FILE_PATH: "<PATH>"
