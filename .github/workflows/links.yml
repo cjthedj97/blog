@@ -15,7 +15,7 @@ jobs:
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1.0.8
         with:
-          args: --exclude=fonts.gstatic.com --exclude=www.googletagmanager.com --verbose --no-progress **/*.md
+          args: --exclude=fonts.gstatic.com --exclude=www.googletagmanager.com --exclude=127.0.0.1 --exclude=localhost --verbose --no-progress **/*.md
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
         
