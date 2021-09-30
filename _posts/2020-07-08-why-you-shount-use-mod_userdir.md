@@ -2,7 +2,6 @@
 layout: post
 tags: Apache Mod_userdir 
 title:  "Why you shouldn't use mod_userdir"
-pin: true
 ---
 
 I commonly see people use or want to use _IP/~/username_ on shared servers.

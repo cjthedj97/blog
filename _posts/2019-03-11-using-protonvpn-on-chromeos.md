@@ -2,7 +2,6 @@
 layout: post
 tags: ChromeOS ProtonVPN VPN
 title:  "Using ProtonVPN on ChromeOS"
-pin: true
 ---
 
 So you looking to be able to use your protron vpn subscription on your chromebook.
