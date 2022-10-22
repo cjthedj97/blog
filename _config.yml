@@ -37,8 +37,10 @@ social:
   name: CJ Saathoff                  # it will shows as the copyright owner in Footer
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/cjthedj97      # change to your twitter homepage
     - https://github.com/cjthedj97       # change to your github homepage
+    - https://www.youtube.com/channel/UC3SlogNzSkwro80HZxbL_dA
+    - https://vimeo.com/cjthedj97
+    - https://www.twitch.tv/cjthedj97
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
