@@ -4,8 +4,6 @@ title: "Recording SSH sessions with asciinema"
 tags: SSH bash function asciinema
 ---
 
-{% include warning.html content="This is a Draft post." %}
-
 So your looking for a way to record you SSH sessions.
 
 Here is an example of a simple bash function that will allow you to record you ssh session with no additional work.
