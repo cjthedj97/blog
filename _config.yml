@@ -17,11 +17,11 @@ timezone: America/Detroit
 # --------------------------
 title: CJ's Blog                          # the main title
 
-tagline: Blog of a Linux Geek & System Admin   # it will display as the sub-title
+ # it will display as the sub-title
+tagline: Blog of an Experienced Linux System Administrator | IT Professional | Cybersecurity Advocate
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal blog built on Jekyll theme responsive web design
-  and focuses on text presentation.
+  Welcome to my blog which is a a side project dedicated to the musings of an Experienced Linux System Administrator, IT Professional, and Cybersecurity Advocate. Tailored for fellow technical enthusiasts, the blog delivers substance without filler. Each post offers concise insights and solutions for a more efficient and enjoyable tech journey. 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://blog.cjthedj97.me'
@@ -39,8 +39,8 @@ social:
     # The first element serves as the copyright owner's link
     - https://github.com/cjthedj97       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    https://mastodon.social/@cjthedj97
+    https://www.linkedin.com/in/cjthedj97/
 
 google_site_verification: zU3KH53UjELsUSAjmWDCl7-hv3ds46yS-jG5egqa9PU # change to your verification string
 # --------------------------
