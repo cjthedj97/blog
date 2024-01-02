@@ -39,8 +39,8 @@ social:
     # The first element serves as the copyright owner's link
     - https://github.com/cjthedj97       # change to your github homepage
     # Uncomment below to add more social links
-    https://mastodon.social/@cjthedj97
-    https://www.linkedin.com/in/cjthedj97/
+    - https://mastodon.social/@cjthedj97
+    - https://www.linkedin.com/in/cjthedj97/
 
 google_site_verification: zU3KH53UjELsUSAjmWDCl7-hv3ds46yS-jG5egqa9PU # change to your verification string
 # --------------------------
