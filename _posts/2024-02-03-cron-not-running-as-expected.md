@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Is Cron Itself Not Working or Is the Cron Job Not Running as Expected?"
+tags: cron
 ---
 
 When a cron job doesn't run as expected, it can be challenging to pinpoint the exact issue. Cron, the time-based job scheduler in Unix-like operating systems, offers flexibility and precision for scheduling tasks. However, this can sometimes lead to confusion when jobs fail to run. The most effective first step in troubleshooting is to check the cron log. This can immediately provide insights into what went wrong.
