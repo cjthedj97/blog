@@ -1,0 +1,9 @@
+{
+    "grammarly.selectors": [
+        {
+            "language": "markdown",
+            "scheme": "vscode-vfs",
+            "pattern": "_drafts/cron-not-running-as-expected.md"
+        }
+    ]
+}
