@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Rethinking CMS Choices: The Case for Static Sites Over WordPress"
 tags: security CMS static 
