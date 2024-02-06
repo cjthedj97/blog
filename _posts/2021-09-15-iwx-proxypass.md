@@ -5,7 +5,8 @@ tags: IWX Interworx
 category: Interworx
 ---
 
-{% include note.html content="Note you will already need to have the domain added to siteworx." %}
+> Note you will already need to have the domain added to siteworx.
+{: .prompt-info }
 
 With the domain in siteworx you can add an apache include directly as the user.
 

@@ -1,14 +1,23 @@
-# hidden files
-.*
-!.github
+# Bundler cache
+.bundle
+vendor
+Gemfile.lock
 
-# jekyll cache
+# Jekyll cache
+.jekyll-cache
 _site
 vendor
 
-# rubygem
+# RubyGems
 *.gem
 
-# npm dependencies
+# NPM dependencies
 node_modules
 package-lock.json
+
+# IDE configurations
+.idea
+.vscode
+
+# Misc
+assets/js/dist

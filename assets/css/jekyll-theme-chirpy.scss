@@ -1,0 +1,16 @@
+---
+---
+
+@import 'main';
+
+/* append your custom style below */
+
+@media (prefers-color-scheme: dark) {
+    html:not([data-mode]), html[data-mode="dark"] {
+      /* --sidebar-bg: #1e1e1e; */
+      /* --topbar-bg: rgb(27, 27, 30, 0.64); */
+      --sidebar-bg: radial-gradient(circle, #222831 0%, #1d1f27 100%);
+      --topbar-bg: #2c3e50;
+    }
+  }
+  

@@ -50,7 +50,8 @@ I advise you to modify the CSS and make it your own rather then using it directl
 
 If you open up the html file in a web broswer (or something similar) you can them print into into a PDF.
 
-{% include note.html content="Be careful as if you choose something that doesn't support JS the below example may not work." %}
+> Be careful as if you choose something that doesn't support JS the below example may not work.
+{: .prompt-info }
 
 If you want to take this a step further, try adding in line html and/or JS.
 
