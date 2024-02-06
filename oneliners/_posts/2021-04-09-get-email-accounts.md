@@ -7,7 +7,8 @@ category: Cpanel
 
 ### List all email userdata
 
-{% include note.html content="This First one outputs A LOT of data" %}
+> This First one outputs A LOT of data
+{: .prompt-info }
 
 ```bash
 for i in $(cat /etc/userdomains | awk '{print $2}'); do uapi --user=$i Email list_pops 2>/dev/null ; done | less
