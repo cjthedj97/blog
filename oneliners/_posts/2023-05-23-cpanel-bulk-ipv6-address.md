@@ -4,7 +4,8 @@ title: "One liner to bulk add ipv6 addresses from a range"
 tags: ipv6 cpanel
 ---
 
-{% include note.html content="This guide is is not complete on setting up ipv6 on cpanel rather this is one part of it." %}
+> This guide is not complete on setting up ipv6 on cpanel rather this is one part of it.
+{: .prompt-info }
 
 Cpanel can be bit of a pain if you want to assign a site a specific Ip from a range of Ipv6 addresses.
 
