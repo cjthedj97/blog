@@ -9,6 +9,11 @@ category: Cpanel
 
 > This First one outputs A LOT of data
 {: .prompt-info }
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> main
 
 ```bash
 for i in $(cat /etc/userdomains | awk '{print $2}'); do uapi --user=$i Email list_pops 2>/dev/null ; done | less

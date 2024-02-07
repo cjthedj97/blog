@@ -1,0 +1,6 @@
+---
+permalink: robots.txt
+# The robots rules
+---
+
+Sitemap: {{ '/sitemap.xml' | absolute_url }}
