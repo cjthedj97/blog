@@ -7,13 +7,13 @@ tags: ipv6 cpanel
 > This guide is not complete on setting up ipv6 on cpanel rather this is one part of it.
 {: .prompt-info }
 
-Cpanel can be a bit of a pain if you want to assign a site a specific Ip from a range of Ipv6 addresses.
+Cpanel can be bit of a pain if you want to assign a site a specific Ip from a range of Ipv6 addresses.
 
-You can't do this if you just add the one big range.
+As you can't actually do this if you just add the one big range.
 
-Instead, it is best to add addresses as individual /128 but who has time to sit there and add them?
+Instead it is best to add addresses as individual /128 but who has time to sit there and add them.
 
-That is where a one-liner like this can be handy.
+That is where a one liner like this can be handy.
 
 Note: You will want to replace `Prefix` in the command before you run the below command.
 
