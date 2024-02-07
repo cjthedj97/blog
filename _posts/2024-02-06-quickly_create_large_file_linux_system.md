@@ -29,7 +29,7 @@ To create files of varying sizes using `fallocate`, follow these steps:
     
     Example series:
     
-    ```
+    ``` bash
     fallocate -l 10M file
     fallocate -l 50M file
     fallocate -l 100M file
