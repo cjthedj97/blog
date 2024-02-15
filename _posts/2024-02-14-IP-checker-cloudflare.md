@@ -47,6 +47,6 @@ The code provided in the GitHub repository is a basic implementation of an IP ch
 
 ## Conclusion
 
-By utilizing Cloudflare Workers, we have successfully built an IP checker page that fetches and displays the client's IP address. Cloudflare Workers offer a simple and cost-effective solution for running serverless code at the edge of the network. You can further enhance the functionality of the IP checker page by integrating additional APIs or services to gather more information about the visitor's IP address.
+By utilizing Cloudflare Workers, we have successfully built an IP checker page that fetches and displays the client's IP address. Cloudflare Workers offers a simple and cost-effective solution for running serverless code at the edge of the network. 
 
-Remember to explore the [Cloudflare Workers documentation](https://developers.cloudflare.com/workers) for more advanced features and possibilities. Happy coding!
+Remember to explore the [Cloudflare Workers documentation](https://developers.cloudflare.com/workers) for more advanced features and possibilities.
