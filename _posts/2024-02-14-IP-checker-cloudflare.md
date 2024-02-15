@@ -23,9 +23,6 @@ Before we dive into the implementation, make sure you have the following:
 3.  Give your worker a name, such as "IPCheckerPage."
 4.  Copy the code from the provided [GitHub repository](https://raw.githubusercontent.com/cjthedj97/ip_page/main/worker.js) and paste it into the worker editor.
 
-> Please change the fav icon linked in the header before using.
-{: .prompt-info }
-
 ### Understanding the code
 
 The code provided in the GitHub repository is a basic implementation of an IP checker page. It uses the Cloudflare Workers API to fetch the client's IP address and display it on a simple HTML page.
@@ -34,6 +31,9 @@ The code provided in the GitHub repository is a basic implementation of an IP ch
 
 - Modify the HTML content within the `const html` variable to match your desired layout and design.
 - Feel free to add additional information or styling to enhance the page's appearance.
+  
+> Please change the fav icon linked in the header before using my code, thanks.
+{: .prompt-info }
 
 ### Deploy the worker
 
