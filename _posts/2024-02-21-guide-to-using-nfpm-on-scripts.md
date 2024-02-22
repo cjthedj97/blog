@@ -34,7 +34,7 @@ contents:
     dst: /usr/local/bin/hello.sh
 ```
 
-> Notes: Make sure to modify the content after you copy and paste nfpm.yaml to match the script you are working on.
+> Make sure to modify the content after you copy and paste nfpm.yaml to match the script you are working on.
 {: .prompt-info }
 
 **3.** Run the respective command (updating the target path) to generate the desired package type:
@@ -60,6 +60,9 @@ Arch Linux
 nfpm pkg --packager archlinux
 ```
 **4.** Once the package is created bring it over to the system you want to install it on and run the respective install command on the generated package:
+
+> If you changed the package name you will need to change it here too.
+{: .prompt-info }
 
 Debain and Derivatives
 ```bash
