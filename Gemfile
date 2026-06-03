@@ -4,6 +4,11 @@ source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 6.4", ">= 6.4.2"
 
+# Ruby 3.4+ no longer ships some stdlib libraries as default gems.
+gem "base64", "~> 0.3.0"
+gem "csv"
+gem "logger"
+
 group :test do
   gem "html-proofer", "~> 4.4"
 end
