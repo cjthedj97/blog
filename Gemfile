@@ -1,8 +1,13 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
-gem "jekyll"
+
 gem "jekyll-theme-chirpy", "~> 6.4", ">= 6.4.2"
+
+# Ruby 3.4+ no longer ships some stdlib libraries as default gems.
+gem "base64", "~> 0.3.0"
+gem "csv"
+gem "logger"
 
 group :test do
   gem "html-proofer", "~> 4.4"
@@ -21,7 +26,3 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
-gem "logger"
-gem "csv"
-gem "base64"
-gem "bigdecimal"
